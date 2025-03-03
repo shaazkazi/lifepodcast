@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>LifePodcast</title>
+    <description>Stories that inspire, educate, and entertain</description>
+    <link>https://lifepodcast.netlify.app</link>
+    <language>en-us</language>
+    <copyright>© 2023 LifePodcast. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 15 Jun 2023 12:00:00 GMT</lastBuildDate>
+    <pubDate>Fri, 15 Jun 2023 12:00:00 GMT</pubDate>
+    <docs>https://lifepodcast.netlify.app/about</docs>
+    <webMaster>contact@lifepodcast.com (LifePodcast Team)</webMaster>
+    <managingEditor>editor@lifepodcast.com (LifePodcast Team)</managingEditor>
+    
+    <itunes:author>LifePodcast Team</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://lifepodcast.netlify.app/images/podcast-cover-3000.jpg"/>
+    <itunes:owner>
+      <itunes:name>LifePodcast Team</itunes:name>
+      <itunes:email>contact@lifepodcast.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Mental Health"/>
+    </itunes:category>
+    <itunes:category text="Education"/>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals"/>
+    </itunes:category>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>LifePodcast brings you stories that inspire, educate, and entertain. Join us as we explore mindfulness, health, sustainability, and the art of living well in the modern world.</itunes:summary>
+    
+    <atom:link href="https://lifepodcast.netlify.app/podcast.xml" rel="self" type="application/rss+xml"/>
+    
+    <!-- Episodes -->
+    <item>
+      <title>Mindfulness in the Digital Age</title>
+      <description>Join Dr. Sarah Chen as she explores how to maintain mindfulness and mental clarity in our increasingly digital world. Learn practical techniques to reduce digital anxiety and create healthier relationships with technology.</description>
+      <pubDate>Thu, 15 Jun 2023 09:00:00 GMT</pubDate>
+      <enclosure url="https://gangolliassets.b-cdn.net/podcast/Mufti%20Menks%20Ramadan%202025%20Message%20Will%20Leave%20You%20SPEECHLESS%20-%20Mufti%20Menk.mp3" length="1048576" type="audio/mpeg"/>
+      <guid isPermaLink="false">lifepodcast-episode-1</guid>
+      <itunes:duration>36:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://i.ytimg.com/vi/1Y8HIWTIe8I/maxresdefault.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:title>Mindfulness in the Digital Age</itunes:title>
+      <itunes:summary>Join Dr. Sarah Chen as she explores how to maintain mindfulness and mental clarity in our increasingly digital world. Learn practical techniques to reduce digital anxiety and create healthier relationships with technology.</itunes:summary>
+    </item>
+    
+    <item>
+      <title>The Science of Sleep</title>
+      <description>Sleep expert Dr. James Walker discusses the latest research on sleep patterns and how proper rest affects everything from cognitive performance to emotional well-being. Discover strategies for better sleep hygiene.</description>
+      <pubDate>Thu, 01 Jun 2023 09:00:00 GMT</pubDate>
+      <enclosure url="https://file-examples.com/storage/fee788aafbb6c1e230ae10b/2017/11/file_example_MP3_700KB.mp3" length="716800" type="audio/mpeg"/>
+      <guid isPermaLink="false">lifepodcast-episode-2</guid>
+      <itunes:duration>42:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=1050&amp;q=80"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:title>The Science of Sleep</itunes:title>
+      <itunes:summary>Sleep expert Dr. James Walker discusses the latest research on sleep patterns and how proper rest affects everything from cognitive performance to emotional well-being. Discover strategies for better sleep hygiene.</itunes:summary>
+    </item>
+    
+    <item>
+      <title>Sustainable Living: Small Changes, Big Impact</title>
+      <description>Environmental activist Maya Rivera shares practical, budget-friendly tips for reducing your carbon footprint. Learn how small daily choices can add up to meaningful environmental change without requiring a complete lifestyle overhaul.</description>
+      <pubDate>Thu, 18 May 2023 09:00:00 GMT</pubDate>
+      <enclosure url="https://file-examples.com/storage/fee788aafbb6c1e230ae10b/2017/11/file_example_MP3_5MG.mp3" length="5242880" type="audio/mpeg"/>
+      <guid isPermaLink="false">lifepodcast-episode-3</guid>
+      <itunes:duration>28:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=1013&amp;q=80"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:title>Sustainable Living: Small Changes, Big Impact</itunes:title>
+      <itunes:summary>Environmental activist Maya Rivera shares practical, budget-friendly tips for reducing your carbon footprint. Learn how small daily choices can add up to meaningful environmental change without requiring a complete lifestyle overhaul.</itunes:summary>
+    </item>
+    
+    <item>
+      <title>The Future of Work</title>
+      <description>Tech industry veteran Alex Morgan discusses how AI, automation, and remote work are reshaping career paths. Get insights on future-proofing your skills and adapting to the changing landscape of employment.</description>
+      <pubDate>Fri, 05 May 2023 09:00:00 GMT</pubDate>
+      <enclosure url="https://file-examples.com/storage/fee788aafbb6c1e230ae10b/2017/11/file_example_MP3_2MG.mp3" length="2097152" type="audio/mpeg"/>
+      <guid isPermaLink="false">lifepodcast-episode-4</guid>
+      <itunes:duration>45:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=1050&amp;q=80"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:title>The Future of Work</itunes:title>
+      <itunes:summary>Tech industry veteran Alex Morgan discusses how AI, automation, and remote work are reshaping career paths. Get insights on future-proofing your skills and adapting to the changing landscape of employment.</itunes:summary>
+    </item>
+  </channel>
+</rss>
