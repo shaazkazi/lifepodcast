@@ -3,18 +3,18 @@
   <channel>
     <title>LifePodcast</title>
     <description>Stories that inspire, educate, and entertain</description>
-    <link>https://lifepodcast.netlify.app</link>
+    <link>https://lifepod.netlify.app</link>
     <language>en-us</language>
     <copyright>© 2023 LifePodcast. All rights reserved.</copyright>
     <lastBuildDate>Fri, 15 Jun 2023 12:00:00 GMT</lastBuildDate>
     <pubDate>Fri, 15 Jun 2023 12:00:00 GMT</pubDate>
-    <docs>https://lifepodcast.netlify.app/about</docs>
+    <docs>https://lifepod.netlify.app/about</docs>
     <webMaster>contact@lifepodcast.com (LifePodcast Team)</webMaster>
     <managingEditor>editor@lifepodcast.com (LifePodcast Team)</managingEditor>
     
     <itunes:author>LifePodcast Team</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://lifepodcast.netlify.app/images/podcast-cover-3000.jpg"/>
+    <itunes:image href="https://lifepod.netlify.app/images/podcast-cover-3000.jpg"/>
     <itunes:owner>
       <itunes:name>LifePodcast Team</itunes:name>
       <itunes:email>contact@lifepodcast.com</itunes:email>
@@ -29,7 +29,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:summary>LifePodcast brings you stories that inspire, educate, and entertain. Join us as we explore mindfulness, health, sustainability, and the art of living well in the modern world.</itunes:summary>
     
-    <atom:link href="https://lifepodcast.netlify.app/podcast.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://lifepod.netlify.app/podcast.xml" rel="self" type="application/rss+xml"/>
     
     <!-- Episodes -->
     <item>
