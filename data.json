@@ -1,0 +1,71 @@
+{
+    "episodes": [
+      {
+        "id": 1,
+        "title": "Finding Your Purpose in Life",
+        "description": "In this inspirational episode, we talk with life coach Sarah Johnson about discovering your true purpose and how to align your daily actions with your core values. Learn practical steps to identify what truly matters to you and create a fulfilling life path.",
+        "date": "2023-08-15",
+        "duration": "32:15",
+        "image": "https://i.ytimg.com/vi/1Y8HIWTIe8I/maxresdefault.jpg",
+        "audioUrl": "https://gangolliassets.b-cdn.net/podcast/Mufti%20Menks%20Ramadan%202025%20Message%20Will%20Leave%20You%20SPEECHLESS%20-%20Mufti%20Menk.mp3",
+        "featured": true,
+        "popular": true
+      },
+      {
+        "id": 2,
+        "title": "Mindfulness for Beginners",
+        "description": "Discover the transformative power of mindfulness with meditation expert David Chen. This episode walks you through simple meditation techniques you can incorporate into your busy day to reduce stress and increase focus.",
+        "date": "2023-08-01",
+        "duration": "28:42",
+        "image": "https://source.unsplash.com/random/800x600/?meditation",
+        "audioUrl": "https://cdn.pixabay.com/download/audio/2022/03/15/audio_c3b7cc6d96.mp3?filename=ambient-piano-ampamp-strings-10711.mp3",
+        "featured": false,
+        "popular": true
+      },
+      {
+        "id": 3,
+        "title": "Building Resilience in Challenging Times",
+        "description": "Psychologist Dr. Maya Patel shares powerful strategies for developing mental toughness and emotional resilience during difficult periods in life. Learn how adversity can become your greatest teacher and strength.",
+        "date": "2023-07-18",
+        "duration": "45:10",
+        "image": "https://source.unsplash.com/random/800x600/?strength",
+        "audioUrl": "https://cdn.pixabay.com/download/audio/2021/11/25/audio_cb7d896515.mp3?filename=cinematic-atmosphere-score-10612.mp3",
+        "featured": false,
+        "popular": false
+      },
+      {
+        "id": 4,
+        "title": "The Science of Happiness",
+        "description": "What actually makes us happy? Neuroscientist Dr. Robert Kim explains the surprising scientific findings about happiness and provides evidence-based techniques to increase your daily joy and satisfaction.",
+        "date": "2023-07-05",
+        "duration": "36:25",
+        "image": "https://source.unsplash.com/random/800x600/?happy",
+        "audioUrl": "https://cdn.pixabay.com/download/audio/2022/09/29/audio_5dcdadebb9.mp3?filename=cheerful-upbeat-uplifting-corporate-sunshine-134965.mp3",
+        "featured": false,
+        "popular": true
+      },
+      {
+        "id": 5,
+        "title": "Relationships That Thrive",
+        "description": "Relationship counselor Anna Martinez discusses the key ingredients for building healthy, lasting relationships - whether romantic, family, or friendships. Learn communication skills and emotional intelligence tools to deepen your connections.",
+        "date": "2023-06-20",
+        "duration": "41:18",
+        "image": "https://source.unsplash.com/random/800x600/?couple",
+        "audioUrl": "https://cdn.pixabay.com/download/audio/2022/10/03/audio_9253cad35f.mp3?filename=relaxing-lofi-hip-hop-110150.mp3",
+        "featured": false,
+        "popular": false
+      },
+      {
+        "id": 6,
+        "title": "Reimagining Success",
+        "description": "Entrepreneur and author James Wright challenges conventional definitions of success and shares his framework for creating a personally meaningful vision of achievement that aligns with your authentic self.",
+        "date": "2023-06-07",
+        "duration": "39:05",
+        "image": "https://source.unsplash.com/random/800x600/?success",
+        "audioUrl": "https://cdn.pixabay.com/download/audio/2022/05/16/audio_270f10a0bf.mp3?filename=lofi-study-112191.mp3",
+        "featured": false,
+        "popular": false
+      }
+    ]
+  }
+  
